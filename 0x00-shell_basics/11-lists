@@ -1,2 +1,2 @@
 #!/bin/bash
-echo . .. /boot | xargs -n 1 ls -a
+ls -al . .. /boot
